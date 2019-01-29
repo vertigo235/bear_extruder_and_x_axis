@@ -49,8 +49,6 @@ G4 S60
 M105
 G4 S60
 M105
-G4 S60
-M105
 
 M31       ; print time when test stop
 
